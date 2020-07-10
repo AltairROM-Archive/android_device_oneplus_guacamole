@@ -1,7 +1,7 @@
 [
   {
     "remote": "altair",
-    "repository": "android_device_oneplus_sm8150-common",
+    "repository": "AltairROM-Devices/android_device_oneplus_sm8150-common",
     "target_path": "device/oneplus/sm8150-common",
     "revision": "v10"
   },
