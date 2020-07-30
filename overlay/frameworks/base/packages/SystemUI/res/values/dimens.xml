@@ -20,4 +20,7 @@
     <dimen name="system_icons_keyguard_padding_end">12dp</dimen>
     <dimen name="status_bar_extra_padding">14dp</dimen>
     <dimen name="keyguard_carrier_text_margin">19dp</dimen>
+    <!-- padding on start and end of statusbar -->
+    <dimen name="status_bar_padding_start">0dp</dimen>
+    <dimen name="status_bar_padding_end">0dp</dimen>
 </resources>
