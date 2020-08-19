@@ -19,6 +19,10 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/audio/mixer_paths_pahu.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_pahu.xml \
     $(LOCAL_PATH)/audio/mixer_paths_tavil.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_tavil.xml
 
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.config.media_vol_steps=25 \
+    ro.config.vc_call_vol_steps=7
+
 # Camera
 PRODUCT_PACKAGES += \
     OnePlusCameraHelper
