@@ -18,6 +18,10 @@ PRODUCT_COPY_FILES += \
 TARGET_SCREEN_HEIGHT := 3120
 TARGET_SCREEN_WIDTH := 1440
 
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.config.media_vol_steps=25 \
+    ro.config.vc_call_vol_steps=7
+
 # Camera
 PRODUCT_PACKAGES += \
     OnePlusCameraHelper
