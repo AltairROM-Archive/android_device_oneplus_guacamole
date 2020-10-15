@@ -18,9 +18,9 @@
     "revision": "lineage-17.1"
   },
   {
-    "remote": "altair",
-    "repository": "AltairROM-Devices/proprietary_vendor_oneplus",
+    "remote": "tm",
+    "repository": "proprietary_vendor_oneplus",
     "target_path": "vendor/oneplus",
-    "revision": "v10"
+    "revision": "lineage-17.1"
   }
 ]
