@@ -18,7 +18,7 @@ $(call inherit-product, vendor/altair/config/common_full_phone.mk)
 PRODUCT_NAME := altair_guacamole
 PRODUCT_DEVICE := guacamole
 PRODUCT_BRAND := OnePlus
-PRODUCT_MODEL := OnePlus 7 Pro
+PRODUCT_MODEL := 7 Pro
 PRODUCT_MANUFACTURER := OnePlus
 
 PRODUCT_AAPT_CONFIG := xxxhdpi
