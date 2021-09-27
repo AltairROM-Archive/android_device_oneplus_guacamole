@@ -26,7 +26,7 @@ Device configuration for OnePlus 7 Pro
 
 ## Picture
 
-![OnePlus 7 Pro](https://i.imgur.com/ja0osr1.jpg "OnePlus 7 Pro")
+![OnePlus 7 Pro](https://raw.githubusercontent.com/AltairROM-Devices/devices/master/images/guacamole.jpg "OnePlus 7 Pro")
 
 ## Copyrights
 
